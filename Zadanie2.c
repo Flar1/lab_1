@@ -12,7 +12,7 @@ void format(NumberRepr* number)
 
 int main()
 {
-	NumberRepr number = {.num = 1025};
+	NumberRepr number = {.num = 1902};
 	format(&number);
 	printf("str: %s\n", number.str);
 	printf("num: %d\n", number.num);
