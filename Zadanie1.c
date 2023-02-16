@@ -21,5 +21,5 @@ int main()
  	    printf("%d\n", arr[i]);
     }
 	free(arr);
- 	return 0;
+	return 0;
 }
